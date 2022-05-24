@@ -1,2 +1,3 @@
 * The [link](https://github.com/bounswe/2021SpringGroup10) to the repo.
 * You may find development of an app from scratch, we were a group of 10 people and this is a work of 2 semesters.
+* I definetely suggest you to take a look at our wiki page. So much content is visible: Meeting notes, use case scenarios, requirements elicitation, use-case, class and sequence diagrams, project plan, mockups, documentation of our final APIs and more...
